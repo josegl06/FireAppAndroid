@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.devv911:android-job:1.4.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/720e955104afe8089fe0359d2e7bcdb0/transformed/jetified-android-job-1.4.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/720e955104afe8089fe0359d2e7bcdb0/transformed/jetified-android-job-1.4.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.devv911/android-job/1.4.5/8ef03f32668e4f3a68b27c7a5f5ec61cc58f191e/android-job-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FireAppAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/FireAppAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireAppAndroid.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireAppAndroid.cameraView.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireAppAndroid.imageeditengine.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireAppAndroid.stories-progress-view.unitTest.iml" />
+    </modules>
+  </component>
+</project>

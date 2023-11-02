@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.devlomi.hidely:hidely:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b72486c27481370b812badf2fcd92dd4/transformed/jetified-hidely-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b72486c27481370b812badf2fcd92dd4/transformed/jetified-hidely-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b72486c27481370b812badf2fcd92dd4/transformed/jetified-hidely-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devlomi.hidely/hidely/1.0.0/838ba436a89ecc882015d2b455d1ba4b2cfac80d/hidely-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devlomi.hidely/hidely/1.0.0/6c6f08b1a0ca6322746a40251898f1e27d7bd505/hidely-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
