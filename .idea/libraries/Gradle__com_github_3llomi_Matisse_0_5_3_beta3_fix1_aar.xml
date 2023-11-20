@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.3llomi:Matisse:0.5.3-beta3-fix1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/70d3b91ae659dc5eb6fe0acedae10ad6/transformed/jetified-Matisse-0.5.3-beta3-fix1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1509ee05d70a3f7ab76f8a61dc1e8cca/transformed/jetified-Matisse-0.5.3-beta3-fix1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70d3b91ae659dc5eb6fe0acedae10ad6/transformed/jetified-Matisse-0.5.3-beta3-fix1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/70d3b91ae659dc5eb6fe0acedae10ad6/transformed/jetified-Matisse-0.5.3-beta3-fix1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70d3b91ae659dc5eb6fe0acedae10ad6/transformed/jetified-Matisse-0.5.3-beta3-fix1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1509ee05d70a3f7ab76f8a61dc1e8cca/transformed/jetified-Matisse-0.5.3-beta3-fix1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1509ee05d70a3f7ab76f8a61dc1e8cca/transformed/jetified-Matisse-0.5.3-beta3-fix1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1509ee05d70a3f7ab76f8a61dc1e8cca/transformed/jetified-Matisse-0.5.3-beta3-fix1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

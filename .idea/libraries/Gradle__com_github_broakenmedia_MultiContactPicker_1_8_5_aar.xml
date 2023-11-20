@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.broakenmedia:MultiContactPicker:1.8.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/887da3799036e45332d41568a310b3c1/transformed/jetified-MultiContactPicker-1.8.5/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/887da3799036e45332d41568a310b3c1/transformed/jetified-MultiContactPicker-1.8.5/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/887da3799036e45332d41568a310b3c1/transformed/jetified-MultiContactPicker-1.8.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1e37f7cc0ee5d2b3279ec0225aa54643/transformed/jetified-MultiContactPicker-1.8.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1e37f7cc0ee5d2b3279ec0225aa54643/transformed/jetified-MultiContactPicker-1.8.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1e37f7cc0ee5d2b3279ec0225aa54643/transformed/jetified-MultiContactPicker-1.8.5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: io.agora.rtc:full-sdk:3.7.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/42373cb532b1ddad05564795ce6adbf0/transformed/jetified-full-sdk-3.7.1/jars/libs/agora-rtc-sdk.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42373cb532b1ddad05564795ce6adbf0/transformed/jetified-full-sdk-3.7.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/42373cb532b1ddad05564795ce6adbf0/transformed/jetified-full-sdk-3.7.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42373cb532b1ddad05564795ce6adbf0/transformed/jetified-full-sdk-3.7.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/331edbcb946bbe565d4079cb8ba5f622/transformed/jetified-full-sdk-3.7.1/jars/libs/agora-rtc-sdk.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/331edbcb946bbe565d4079cb8ba5f622/transformed/jetified-full-sdk-3.7.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/331edbcb946bbe565d4079cb8ba5f622/transformed/jetified-full-sdk-3.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/331edbcb946bbe565d4079cb8ba5f622/transformed/jetified-full-sdk-3.7.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

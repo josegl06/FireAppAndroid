@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "538154663539",
+    "firebase_url": "https://chatproject-1bfe1-default-rtdb.firebaseio.com",
+    "project_id": "chatproject-1bfe1",
+    "storage_bucket": "chatproject-1bfe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538154663539:android:7be7a9786280de59edb406",
+        "android_client_info": {
+          "package_name": "com.auslander.fireapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtn4sUqoSG9KK72Y63--B1i_lUZEbd_9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

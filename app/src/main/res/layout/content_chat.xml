@@ -36,7 +36,7 @@
         anim:layout_constraintBottom_toTopOf="@id/typing_layout_container" />
 
 
-    <com.devlomi.fireapp.views.ChatRecyclerView
+    <com.auslander.fireapp.views.ChatRecyclerView
         android:id="@+id/recycler_chat"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -81,7 +81,7 @@
         anim:layout_constraintBottom_toTopOf="@id/quoted_message_frame"
         anim:layout_constraintEnd_toEndOf="parent" />
 
-    <com.devlomi.fireapp.views.AttachmentView
+    <com.auslander.fireapp.views.AttachmentView
         android:id="@+id/attachment_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -123,7 +123,7 @@
             app:slide_to_cancel_margin_right="10dp"
             app:slide_to_cancel_text="Slide To Cancel" />
 
-        <com.devlomi.fireapp.views.AnimButton
+        <com.auslander.fireapp.views.AnimButton
             android:id="@+id/record_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

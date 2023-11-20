@@ -10,7 +10,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.devlomi.fireapp"
+        applicationId "com.auslander.fireapp"
         minSdkVersion 21
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 34
@@ -32,7 +32,7 @@ android {
         resValue 'string', "website", "http://devlomi.com/"
         resValue 'string', "email", ""
 
-        resValue 'string', "agora_app_id", ""
+        resValue 'string', "agora_app_id", "b178a1c3fcdd423ba1fdd24fe4aba971"
 
         resValue 'integer', "max_group_call_count", "11"
 
@@ -70,11 +70,23 @@ android {
     }
 
 
+    signingConfigs{
+        debug{
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('C:\\Users\\JoePc\\.android\\debug.keystore')
+            storePassword 'android'
+        }
+
+    }
+
+
     buildTypes {
 
         debug {
             splits.abi.enable = false
             splits.density.enable = false
+            signingConfig signingConfigs.debug
         }
 
         release {
@@ -85,13 +97,14 @@ android {
 
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_18
+        targetCompatibility JavaVersion.VERSION_18
     }
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_1_8.toString()
+        jvmTarget = JavaVersion.VERSION_18.toString()
     }
-    namespace 'com.devlomi.fireapp'
+    namespace 'com.auslander.fireapp'
+    //namespace 'com.auslander.fireapp'
 
     buildFeatures {
         viewBinding = true
@@ -112,9 +125,13 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth:19.4.0'
     implementation 'com.google.firebase:firebase-database:20.2.2'
     implementation 'com.google.firebase:firebase-storage:20.2.1'
-    implementation 'com.google.android.gms:play-services-ads:22.0.0'
+    implementation 'com.google.android.gms:play-services-ads:22.5.0'
     implementation 'com.google.firebase:firebase-functions:20.3.0'
     implementation "androidx.work:work-runtime:2.7.1"
+    implementation("com.google.firebase:firebase-analytics")
+    implementation(platform("com.google.firebase:firebase-bom:32.6.0"))
+    implementation("com.google.firebase:firebase-appcheck-playintegrity")
+
 
     implementation 'com.hbb20:ccp:2.4.0'
 
@@ -192,6 +209,9 @@ dependencies {
     implementation project(path: ':imageeditengine')
 
     kapt 'com.github.bumptech.glide:compiler:4.12.0'
+
+
+
 
 
 }

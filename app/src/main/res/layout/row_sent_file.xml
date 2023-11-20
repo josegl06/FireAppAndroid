@@ -6,7 +6,7 @@
 
     android:orientation="vertical">
 
-    <com.devlomi.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint
+    <com.auslander.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint
         android:id="@+id/container"
         android:layout_width="280dp"
         android:layout_height="wrap_content"
@@ -110,7 +110,7 @@
 
             </LinearLayout>
         </RelativeLayout>
-    </com.devlomi.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint>
+    </com.auslander.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint>
 
 
 </FrameLayout>

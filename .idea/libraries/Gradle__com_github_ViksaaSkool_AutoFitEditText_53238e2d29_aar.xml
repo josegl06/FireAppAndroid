@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.ViksaaSkool:AutoFitEditText:53238e2d29@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62ed0b50fac3ec09ed18b5d135e04bba/transformed/jetified-AutoFitEditText-53238e2d29/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/62ed0b50fac3ec09ed18b5d135e04bba/transformed/jetified-AutoFitEditText-53238e2d29/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62ed0b50fac3ec09ed18b5d135e04bba/transformed/jetified-AutoFitEditText-53238e2d29/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01950befaac9f093c90acca1a9fff93f/transformed/jetified-AutoFitEditText-53238e2d29/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/01950befaac9f093c90acca1a9fff93f/transformed/jetified-AutoFitEditText-53238e2d29/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01950befaac9f093c90acca1a9fff93f/transformed/jetified-AutoFitEditText-53238e2d29/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

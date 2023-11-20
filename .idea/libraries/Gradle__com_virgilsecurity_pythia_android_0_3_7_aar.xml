@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.virgilsecurity:pythia-android:0.3.7@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f2ce0c24cc061c2e945671f1e04cc16e/transformed/jetified-pythia-android-0.3.7/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2ce0c24cc061c2e945671f1e04cc16e/transformed/jetified-pythia-android-0.3.7/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2ce0c24cc061c2e945671f1e04cc16e/transformed/jetified-pythia-android-0.3.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc1a7cffb0a146e887803dcb9e94fea5/transformed/jetified-pythia-android-0.3.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc1a7cffb0a146e887803dcb9e94fea5/transformed/jetified-pythia-android-0.3.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fc1a7cffb0a146e887803dcb9e94fea5/transformed/jetified-pythia-android-0.3.7/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/pythia-android/0.3.7/8308f09902fa847d201b56336f47cd31eca6e996/pythia-android-0.3.7-javadoc.jar!/" />

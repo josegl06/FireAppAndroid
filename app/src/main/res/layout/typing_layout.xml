@@ -25,7 +25,7 @@
         app:srcCompat="@drawable/ic_insert_emoticon_black" />
 
 
-    <com.devlomi.fireapp.views.ChatEditText
+    <com.auslander.fireapp.views.ChatEditText
         android:textColor="@color/colorText"
         android:id="@+id/et_message"
         android:layout_width="0dp"

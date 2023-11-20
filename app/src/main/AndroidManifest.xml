@@ -260,7 +260,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.devlomi.fireapp.activities.main.MainActivity" />
+                android:value="com.auslander.fireapp.activities.main.MainActivity" />
         </activity>
         <activity
             android:name=".activities.calling.CallingActivity"

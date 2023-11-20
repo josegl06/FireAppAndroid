@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: me.zhanghai.android.systemuihelper:library:1.0.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1f423aae1c05a9e81773a11dd8e5913/transformed/jetified-library-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1f423aae1c05a9e81773a11dd8e5913/transformed/jetified-library-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1af2bb60f3de49261d36bdec19780adc/transformed/jetified-library-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1af2bb60f3de49261d36bdec19780adc/transformed/jetified-library-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.systemuihelper/library/1.0.0/7746ae28d27d5a5e86068883e0b9d28c689a78d1/library-1.0.0-javadoc.jar!/" />

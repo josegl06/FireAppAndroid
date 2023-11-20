@@ -8,7 +8,7 @@
     >
 
 
-    <com.devlomi.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint
+    <com.auslander.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint
         android:id="@+id/container"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -104,7 +104,7 @@
 
         </FrameLayout>
 
-    </com.devlomi.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint>
+    </com.auslander.fireapp.views.backgroundtintlayouts.LinearLayoutWithBackgroundTint>
 
 
 </RelativeLayout>

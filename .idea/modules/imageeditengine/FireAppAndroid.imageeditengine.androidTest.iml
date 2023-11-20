@@ -74,4 +74,5 @@
     <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.8" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.reactivestreams:reactive-streams:1.0.2" level="project" />
   </component>
+  <component name="TestModuleProperties" production-module="FireAppAndroid.imageeditengine.main" />
 </module>

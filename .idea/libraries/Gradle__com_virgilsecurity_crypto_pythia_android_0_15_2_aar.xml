@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.virgilsecurity.crypto:pythia-android:0.15.2@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/058c519c88113f6c5c24fdf8bba40337/transformed/jetified-pythia-android-0.15.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/058c519c88113f6c5c24fdf8bba40337/transformed/jetified-pythia-android-0.15.2/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/058c519c88113f6c5c24fdf8bba40337/transformed/jetified-pythia-android-0.15.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b4d522dc5ef3d4d44b95868245069d54/transformed/jetified-pythia-android-0.15.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b4d522dc5ef3d4d44b95868245069d54/transformed/jetified-pythia-android-0.15.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b4d522dc5ef3d4d44b95868245069d54/transformed/jetified-pythia-android-0.15.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity.crypto/pythia-android/0.15.2/84f72c86ec776b09820790c8af988ada71a9663a/pythia-android-0.15.2-javadoc.jar!/" />

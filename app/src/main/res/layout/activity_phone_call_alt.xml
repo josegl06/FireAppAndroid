@@ -21,7 +21,7 @@
 
 
 
-    <com.devlomi.fireapp.views.CallingGridLayout
+    <com.auslander.fireapp.views.CallingGridLayout
         android:id="@+id/remote_view"
         android:layout_width="0dp"
         android:layout_height="0dp"

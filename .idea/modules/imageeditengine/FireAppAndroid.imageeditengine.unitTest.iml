@@ -119,4 +119,5 @@
     <orderEntry type="library" scope="TEST" name="Gradle: nekohtml:xercesMinimal:1.9.6.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: nekohtml:nekohtml:1.9.6.2" level="project" />
   </component>
+  <component name="TestModuleProperties" production-module="FireAppAndroid.imageeditengine.main" />
 </module>
